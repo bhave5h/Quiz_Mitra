@@ -90,7 +90,7 @@ Home Page
 <br>
 
 Quiz page 
-<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/db96495c-26a3-4adc-8129-eebea0540acd" />
+<img width="1917" height="1080" alt="image" src="https://github.com/bhave5h/Quiz_Mitra/blob/main/Quiz_mitra/assets/solve.png?raw=true" />
 
 
 ---
