@@ -6,9 +6,8 @@ It’s designed to make learning interactive and assessments effortless.
 ---
 
 ## 👨‍💻 Developed By
-**Bhavesh**  
-Final Year B.Tech (AI) Student  
-Project Date: 2025 
+**Bhavesh Chawre**  
+Final Year B.Tech (AI) Student   
 I created this project during my web development internship at Lamphub (January - June 2025). At that time, I only made a demo version and didn’t plan to host it, but after the internship, I decided to refine it and have successfully host it.
 
 ---
@@ -19,31 +18,25 @@ I created this project during my web development internship at Lamphub (January 
 
 ### 🧾 Login Details for Testing
 
-**Teacher Login**
-Email: teacher@gmail.com
+**Teacher Login** <br>
+Email: teacher@gmail.com <br>
 Password: 123
 
-markdown
-Copy code
-
-**Student Login**
-Email: student@test.com
-Password: 12345
-
-yaml
-Copy code
+**Student Login** <br>
+Number: 9876543210 <br>
+Password: 123
 
 ---
 
 ## 🧩 Features
 
-- 👩‍🏫 Teacher login and dashboard  
+- 👩‍🏫 Teacher login and Student Login
 - 🧾 Create and manage quizzes  
 - 🧑‍🎓 Student registration and login  
 - 🧮 Automatic score calculation  
-- 📊 View results and student performance  
+- 📊 View results and student score
 - 💾 MySQL database for secure data handling  
-- 🎨 Responsive and simple UI design  
+- 🎨 Simple UI design made using Bootstraps 
 
 ---
 
@@ -54,7 +47,7 @@ Copy code
 | **Frontend** | HTML, CSS, JavaScript, jQuery |
 | **Backend** | PHP |
 | **Database** | MySQL |
-| **Styling** | Custom CSS (Responsive Layout) |
+| **Styling** | Custom CSS (Responsive Layout), Bootstarps5 |
 | **Hosting** | InfinityFree |
 | **Version Control** | Git & GitHub |
 
@@ -73,24 +66,18 @@ Follow these steps to run **Quiz Mitra** on your local system:
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/bhave5h/Quiz_Mitra.git
-Move the project folder to your web server directory:
-
-makefile
-Copy code
+2. Move the project folder to your web server directory:
 C:\xampp\htdocs\
-Start Apache and MySQL from the XAMPP Control Panel.
 
-Open phpMyAdmin and create a new database named:
+3. Start Apache and MySQL from the XAMPP Control Panel.
 
-nginx
-Copy code
+4. Open phpMyAdmin and create a new database named:
 quiz_mitra
-Import the provided SQL file (quiz_mitra.sql) from the project folder.
 
-Open your browser and go to:
+5. Import the provided SQL file (quiz.sql) from the project folder.
 
-arduino
-Copy code
+6. Open your browser and go to:
+
 http://localhost/Quiz_Mitra/
 Log in using the test credentials provided above.
 
