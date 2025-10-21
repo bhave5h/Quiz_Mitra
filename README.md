@@ -81,20 +81,21 @@ quiz_mitra
 http://localhost/Quiz_Mitra/
 Log in using the test credentials provided above.
 
+---
 
-### Future Improvements
-📧 Add email verification for accounts
-🖼️ Support question images or media-based questions
-📈 Add analytics dashboard for teacher insights
-🔔 Real-time notifications for results
+### 📸 Screenshots 
 
-📸 Screenshots 
+Home Page 
+<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/db96495c-26a3-4adc-8129-eebea0540acd" />
+<br>
 
-![Homepage Screenshot](assets/home.png)
-![Quiz Page Screenshot](assets/solve.png)
+Quiz page 
+<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/db96495c-26a3-4adc-8129-eebea0540acd" />
 
 
-🌟 Support
+---
+
+### 🌟 Support
 If you like this project, please give it a ⭐ on GitHub to show your support!
 
 “Empowering Teachers, Engaging Students.”
