@@ -81,36 +81,24 @@ quiz_mitra
 http://localhost/Quiz_Mitra/
 Log in using the test credentials provided above.
 
-💡 Future Improvements
+
+### Future Improvements
 📧 Add email verification for accounts
-
 🖼️ Support question images or media-based questions
-
 📈 Add analytics dashboard for teacher insights
-
 🔔 Real-time notifications for results
 
-📸 Screenshots (Optional)
-Add images to visually represent your app:
+📸 Screenshots 
 
-scss
-Copy code
-![Homepage Screenshot](assets/screenshots/home.png)
-![Quiz Page Screenshot](assets/screenshots/quiz.png)
-📜 License
-This project was developed as part of an academic project.
-© 2025 Bhavesh — All Rights Reserved.
+![Homepage Screenshot](assets/home.png)
+![Quiz Page Screenshot](assets/solve.png)
+
 
 🌟 Support
 If you like this project, please give it a ⭐ on GitHub to show your support!
 
 “Empowering Teachers, Engaging Students.”
 
-yaml
-Copy code
-
 ---
 
-Would you like me to insert your **actual InfinityFree site URL** and GitHub repo link into it (so you can copy-paste directly without edits)?
 
-view - https://quizmitra.page.gd/
